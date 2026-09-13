@@ -1,0 +1,7 @@
+cd ~/storage/downloads/EduLearn-Laravel-reorganized
+git init
+git add .
+git commit -m "Upload Laravel project"
+git branch -M main
+git remote add origin https://github.com/USERNAME/REPO.git
+git push -u origin main
